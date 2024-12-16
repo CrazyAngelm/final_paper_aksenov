@@ -8,7 +8,7 @@
 - Text translation: [yes]
 - Retelling of articles: [yes]
 
----
+--- 
 
 ## I. Introduction
 
